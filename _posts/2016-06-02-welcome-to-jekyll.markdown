@@ -2,11 +2,15 @@
 layout: post
 title:  "Welcome to Barts Tech!"
 date:   2016-06-02 12:04:38 -0400
-categories: jekyll update
+categories: Tech Update
 ---
 Here is where I will create the narrative of my journey into the tech world and detail the wrong and the right. 
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias obcaecati, vitae accusamus! Quibusdam dolore sapiente nesciunt, asperiores nemo provident, repellat suscipit, qui quaerat atque nostrum excepturi voluptatum. Laborum, autem, dolorum.
+
+Voluptates omnis consectetur inventore quam ullam. Dignissimos provident nobis neque a quae sit modi atque error, qui ab perspiciatis fugit non cupiditate porro magnam perferendis quos expedita natus aliquid earum.
 
 Jekyll also offers powerful support for code snippets:
 
