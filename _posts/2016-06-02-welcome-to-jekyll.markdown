@@ -4,6 +4,8 @@ title:  "Welcome to Barts Tech!"
 date:   2016-06-02 12:04:38 -0400
 categories: Tech Update
 ---
+
+[kirby]: http://66.media.tumblr.com/a67caddb14254df0c066e39415c90e07/tumblr_inline_mlifi9Albc1qz4rgp.jpg
 ![kirby](http://66.media.tumblr.com/a67caddb14254df0c066e39415c90e07/tumblr_inline_mlifi9Albc1qz4rgp.jpg)!
 Here is where I will create the narrative of my journey into the tech world and detail the wrong and the right. 
 
