@@ -6,7 +6,7 @@ categories: Tech Update
 ---
 
 [kirby]: http://66.media.tumblr.com/a67caddb14254df0c066e39415c90e07/tumblr_inline_mlifi9Albc1qz4rgp.jpg
-![kirby](http://66.media.tumblr.com/a67caddb14254df0c066e39415c90e07/tumblr_inline_mlifi9Albc1qz4rgp.jpg)!
+![kirby](http://66.media.tumblr.com/a67caddb14254df0c066e39415c90e07/tumblr_inline_mlifi9Albc1qz4rgp.jpg)
 Here is where I will create the narrative of my journey into the tech world and detail the wrong and the right. 
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
