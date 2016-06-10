@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Barts Tech!"
 date:   2016-06-02 12:04:38 -0400
 categories: jekyll update
 ---
